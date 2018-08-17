@@ -1,0 +1,444 @@
+vibration 振动
+　　sound 音
+　　tone 音（乐音）
+　　musical tone 乐音
+　　noise 噪音
+　　acoustics 声学
+　　psychoacoustics 心理声学
+　　frequency 频率
+　　intensity 强度
+　　time 时间
+　　wave form 波形
+　　pitch 音高
+　　loudness 响度
+　　duration 时值
+　　timbre 音色 （tone color or quality）
+　　tuning fork 音叉
+　　pure tone 纯音
+　　complex tone 复音 （composite tone）
+　　overtone（s） 泛音
+　　（aliquot tone， harmonics， flageolet tone 即upper partials）
+　　overtone series 泛音列
+　　partial（s） 分音（partial tone）
+　　fundamental（tone） 基音 （first partial）
+　　step 音级（scale step， degree）
+　　accidental（s） 变音记号
+　　sharp 升号
+　　flat 降号
+　　double-sharp 重升号
+　　double-flat 重降号
+　　nature 还原号 intonation 音准
+　　octave 八度
+　　range 音域（compass）
+　　（voice） register 音区
+　　small c 小字组c
+　　great C 大字组C
+　　contra C 大字二组C
+　　unaccented octave 小字组
+　　one-lined octave 小字一组 （one-line）
+　　two-lined octave 小字二组 （two-line）
+　　three -lined octave 小字三组（three-line）
+　　four-line octave 小字四组 （four-line）
+　　temperament 乐律
+　　tempered scale 平均律 （equal temperament）
+　　just intonation 纯律
+　　pitch name 音名
+　　enharmonic notes 等音
+　　（whole） tone 全音
+　　half-tone 半音
+　　natural half-tone 自然半音
+　　natural tone 自然全音
+　　chromatic tone 变化全音
+　　chromatic half-tone 变化半音
+　　notation 记谱法
+　　staff 乐谱
+　　treble clef 高音谱号
+　　bass clef 低音谱号
+　　clef 谱号 （G clef， F clef， C clef）
+　　note（s） 音符
+　　rest（s） 休止符
+　　breve 二全音符
+　　semibreve 全音符 （whole note，美）
+　　minim 二分音符 （half note，美）
+　　crotchet 四分音符（quarter note，美）
+　　quaver 八分音符 （eighth note，美）
+　　semiquaver 十六分音符（sixteenth note，美）
+　　demisemiquaver 三十二分音符（thirty-second note，美）
+　　hemidemisemi quaver 六十四分音符 （sixty-fourth note，美）
+　　dot 附点
+　　double dot 复附点
+　　dotted note 附点音符
+　　dotted rest 附点休止符
+　　score 总谱
+　　leger line（s） 加线 （ledger line（s））
+　　head 符头
+　　stem 符干
+　　hook 符尾（tail）
+　　space 间
+　　line 线
+　　tie 延音线
+　　pause 延长号（hold， fermata）
+　　bar 小节 （bar line小节线，measure）
+　　legato 连音，连奏
+　　staccato 断音，断奏
+　　sostenuto 持音
+　　trembolo 震音
+　　glissando 滑音
+　　relative pitch 相对音高（听觉）
+　　absolute pitch 绝对音高（听觉）
+　　sight-singing 视唱
+　　fixed-do 固定唱名法 movable-do 音调唱名法
+　　lyra 乐徽
+　　rhythm 节奏
+　　rhythmic pattern 节奏型
+　　accent 重音
+　　syncopation 切分音
+　　meter 拍子 （time）
+　　duple meter（s） 二拍子 （2/2，2/4，2/8）
+　　triple meter（s） 三拍子 （3/2，3/4，3/8）
+　　quadruple meter（s） 四拍子 （4/2，4/4，4/8）
+　　common meter 普通拍子 （4/4）
+　　simple meter（s） 单拍子
+　　compound meter（s） 复拍子
+　　compound duple meter（s） 复二拍子（6/2，6/4，6/8）
+　　compound triple meter（s） 复三 拍子（9/4，9/8）
+　　compound quadruple meter（s） 复四拍子 （12/4，12/8，12/16）
+　　quintuple meter 五拍子
+　　time signature 拍号
+　　multi-meter 变化拍子
+　　irregular meter （不规则）混合拍子（7/4，11/7）
+　　Metronome 节拍机 （M.M.=Malzel‘s ~）
+　　duplet 二连音
+　　triplet 三连音
+　　quadruplet 四连音
+　　quintuplet 五连音
+　　sextuplet 六连音
+　　septuplet 七连音
+　　tempo 速度
+　　dynamics 力度
+　　tempo mark（s） 速度标记
+　　dynamic mark（s） 力度标记
+　　mode 调式（狭指教会调式；广指调式）
+　　scale 音阶
+　　key 调
+　　tonality 调性
+　　atonality 无调性
+　　bitonality 双重调性
+　　polytonality 多调性
+　　major 大调
+　　minor 小调
+　　key signature 调号
+　　pentatonic 五声的
+　　natural 自然的
+　　melodic 旋律的
+　　harmonic 和声的
+　　whole-tone 全音的
+　　chromatic 半音的
+　　ascending 上行
+　　descending 下行
+　　scale degree （调式）音级
+　　tonic（I） 主音，主和弦
+　　supertonic（II） 上主音，上主和弦
+　　mediant （III） 中音，中音和弦
+　　subdominant（IV） 下属音，下属和弦
+　　dominant（V） 属音，属和弦
+　　submediant（VI） 下中音，下中音和弦 （super-dominant）
+　　leading tone（VII） 导音，导和弦 （subtonic）
+　　broken chord 分解和弦
+　　altered chord 变和弦
+　　false chord 假和弦 resolution 解决
+　　relative keys 关系大小调
+　　parallel keys 同主音调
+　　interval 音程
+　　melodic interval 旋律音程
+　　harmonic interval 和声音程
+　　root 根音（fundamental）
+　　scale step 音级（音级数：number of scale step）
+　　simple interval 单音程
+　　compound interval 复音程
+　　enharmonic intervals 等音程
+　　inversion 转位（complement）
+　　minor 小（音程）
+　　major 大（音程）
+　　perfect 完全，纯（音程）
+　　augmented 增（音程）
+　　diminished 减（音程）
+　　double-augmented 倍增（音程）
+　　double-diminished 倍减（音程）
+　　unison 同度，一度（prime）
+　　second 二度
+　　third 三度
+　　fourth 四度
+　　fifth 五度
+　　sixth 六度
+　　seventh 七度
+　　octave 八度
+　　ninth 九度
+　　tenth 十度
+　　eleventh 十一度
+　　twelfth 十二度
+　　tri-tone 三全音
+　　diatonic interval 自然（音程）
+　　chromatic interval 变化（音程）
+　　consonant 协和（音程、和弦）
+　　dissonant 不协和（音程、和弦）
+　　chord 和弦
+　　triad 三和弦
+　　major triad 大三和弦
+　　minor triad 小三和弦
+　　diminished triad 减三和弦
+　　augmented triad 增三和弦
+　　root position 原位
+　　first inversion 第一转位
+　　second inversion 第二转位
+　　third inversion 第三转位
+　　sixth chord 六和弦
+　　sixth-four chord 四六和弦
+　　seventh chord 七和弦
+　　dominant seventh chord 属七和弦
+　　diminished seventh chord 减七和弦
+　　ninth chord 九和弦
+　　augmented sixth chord 增六和弦
+　　Added-sixth chord 加六度和弦
+　　fourth chord 四度和弦
+　　tone-cluster 音簇
+　　harmony 和声学
+　　harmonic analysis 和声分析
+　　functional harmony 功能和声
+　　modulation 转调
+　　transposition 移调
+　　chromatic scale 半音阶
+　　diatonic scale 自然音阶 passing tone 经过音
+　　neighboring tone 辅助音（auxiliary tone，upper or lower）
+　　anticipation 先现音
+　　suspension 延留音
+　　ornament（s） 装饰音
+　　trill 颤音
+　　mordent 波音（upper mordent）
+　　inverted mordent 逆波音（lower mordent；早期称Schneller）
+　　double mordent 复波音
+　　inverted turn 回音
+　　arpeggio 琶音
+　　melody 旋律
+　　repetition 重复
+　　unity 统一
+　　variety 变化
+　　variation 变奏
+　　theme with variation 主题与变奏
+　　comparison 对比
+　　augmentation 展开
+　　climax 高潮
+　　sequence 模进
+　　melodic sequence 旋律模进
+　　harmonic sequence 和声模进
+　　melodic progression 旋律进行
+　　melodic contour 旋律轮廓
+　　motive 动机
+　　development 发展
+　　thematic material 主题材料
+　　phrase 乐句
+　　phrasing 分句
+　　period 乐段
+　　cadence 终止
+　　perfect cadence 完全终止
+　　imperfect cadence 不完全终止
+　　half cadence 半终止
+　　authentic cadence 正格终止
+　　plagal cadence 变格终止
+　　interrupted cadence 阻碍终止
+　　deceptive cadence 伪终止
+　　musical form 曲式
+　　one-part form 一段式，一部曲式
+　　binary form 二段式，二部曲式（AB）
+　　rounded binary form （有再现的）二段式
+　　ternary form 三段式，三部曲式（ABA）
+　　four-part form 四段式
+　　five-part form 五段式
+　　variation form 变奏曲式（A，A1，A2，A3…）strophic form 分节歌（a，a，a，a …）
+　　rondo form 回旋曲式（ABACA）
+　　sonata form 奏鸣曲式
+　　exposition 呈示部
+　　development 展开部
+　　recapitulation 再现部
+　　rondo sonata form 回旋奏鸣曲式
+　　movement 乐章
+　　prelude 前奏（曲）
+　　interlude 间奏（曲）
+　　coda 尾声
+　　trio 三声中部
+　　cadanza 华彩乐段 musical form 体裁
+　　reduction 改编（缩编）
+　　trio 三重奏
+　　quartet 四重奏
+　　quintet 五重奏
+　　opera 歌剧
+　　ballet 芭蕾
+　　chorus 合唱
+　　choir 合唱团
+　　choral music 合唱音乐
+　　cantata 康塔塔
+　　mass 弥撒
+　　oratorio 清唱剧
+　　passion 受难曲
+　　symphony 交响曲
+　　concerto 协奏曲
+　　sonata 奏鸣曲
+　　sonatina 小奏鸣曲
+　　band 军乐队
+　　band music 军乐
+　　etude 练习曲
+　　march 进行曲
+　　jazz 爵士乐
+　　overture 序曲
+　　ballata 叙事曲
+　　inter mezzo 间奏曲
+　　waltz 圆舞曲，华尔兹
+　　allemande 阿勒曼德
+　　courante 库朗特
+　　sarabande 萨拉班德
+　　gigue 吉格
+　　bourree 布列
+　　polonaise 波洛涅兹
+　　tarantella 塔兰台拉
+　　govotte 加沃特
+　　chaconne 恰空
+　　passacaglia 帕萨卡利亚
+　　capriccio 随想曲
+　　fantasia 幻想曲
+　　lullaby 摇篮曲
+　　tango 探戈
+　　habanera 哈巴涅拉
+　　madrigal 牧歌
+　　choral 众赞歌
+　　reguiem 安魂曲
+　　symphonic poem 交响诗
+　　toccata 托卡塔
+　　serenade 小夜曲
+　　nocturn 夜曲
+　　rhapsody 狂想曲
+　　minuet 小步舞曲
+　　recitative 宣叙调
+　　aria 咏叹调
+　　songs without word 无词歌
+　　invention 创意曲
+　　scherzo 谐谑曲
+　　mazurka 玛祖卡
+　　polka 波尔卡
+　　fox trot 狐步舞
+　　blues 布鲁斯
+　　rumba 伦巴
+　　disco 迪斯科 suite 组曲
+　　fugue 赋格
+　　instrumental music 器乐
+　　musical instrument 乐器
+　　instrumentation 乐器法
+　　orchestra 管弦乐队
+　　orchestration 配器法
+　　conductor 指挥
+　　concert master 首席
+　　podium 指挥台
+　　wood wind instruments 木管乐器
+　　piccolo 短笛
+　　flute 长笛
+　　oboe 双簧管
+　　clarinet 单簧管（黑管）
+　　bass clarinet 低音单簧管
+　　bassoon 大管（巴松）
+　　contrabassoon 低音大管
+　　English horn 英国管
+　　brass wind instruments 铜管乐器
+　　French horn 圆号，法国号
+　　trumpet 小号
+　　cornet 短号
+　　trombone 长号
+　　tuba 大号
+　　bass　tuba 低音大号
+　　double bass tuba 倍低音大号
+　　tenor tuba 次中音大号
+　　bass 低音号
+　　saxophone 萨克斯管
+　　euphonium 尤风宁号
+　　percussion（s） 打击乐
+　　kettle drum 定音鼓
+　　bass drum 大鼓
+　　tenor drum 中鼓
+　　side drum 小鼓
+　　triangle 三角铁
+　　chimes 排钟
+　　marimba 玛林巴
+　　tubular bells 管钟
+　　glockenspiel 钟琴
+　　vibraphone 颤音琴
+　　castanets 响板
+　　whip 鞭响器
+　　rattle 摇响器
+　　anvil 乐砧
+　　tambourine 铃鼓
+　　tabor 塔波鼓
+　　bongo 邦戈鼓
+　　gong 锣
+　　temple block 木鱼
+　　wood block 南梆子，盒梆
+　　cymbal 钹
+　　harp 竖琴
+　　xylophone 木琴
+　　piano 钢琴
+　　pedal 踏板
+　　stringed instruments 弦乐器
+　　violin 小提琴
+　　viola 中提琴
+　　cello 大提琴
+　　double bass 低音提琴 guitar 吉他
+　　lute 疏特琴
+　　harpsichord 拨弦古钢琴
+　　clavier （18世纪）键盘乐器
+　　organ 风琴
+　　pipe organ 管风琴
+　　accordion 手风琴
+　　keyboard 键盘（乐）
+　　vocal music 声乐
+　　bel canto 美声
+　　a cappella 无伴奏合唱
+　　voice 人声，声部
+　　soprano 女高音
+　　coloratura soprano 花腔女高音
+　　lyric soprano 抒情女高音
+　　dramatic soprano 戏剧女高音
+　　mezzo soprano 次女高音，女中音
+　　tenor 男高音
+　　dramatic tenor 戏剧男高音
+　　bariton 男中音
+　　bass 男低音
+　　unison 齐奏（唱）
+　　solo 独奏（唱）
+　　duet 二重奏
+　　ensemble 合奏（团体）
+　　stage 舞台
+　　theater 剧场，戏剧
+　　Renaissance 文艺复兴
+　　Rococo 洛可可
+　　Baroque 巴洛克
+　　Classicism 古典主义
+　　Romanticism 浪漫主义
+　　Impressionism 印象主义
+　　Nationalism in music 民族乐派
+　　Anti- impressionism 反印象主义
+　　Realism 现实主义
+　　Serialism 序列主义
+　　Primitivism 原始主义
+　　Expressionism 表现主义
+　　Microtonalism 微分音主义
+　　Neoclassicism 新古典主义
+　　Structuralism 结构主义
+　　Concrete Music 具体音乐 Accidentalism 偶然主义
+　　Minimalism 省略（简约）主义
+　　Pointillism 点描派
+　　monophonic music 单声部音乐
+　　homophony 主调
+　　homophonic music 主调音乐
+　　polyphony 复调
+　　polyphonic music 复调音乐
+　　counterpoint 对位
+　　program music 标题音乐
+　　absolute music 纯音乐，非标题音乐
+　　abstract music 抽象音乐

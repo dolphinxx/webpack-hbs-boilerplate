@@ -1,0 +1,70 @@
+{{#layoutHelper title=title menu='tables' header='!%css slot%!' footer='!%js slot%!'}}
+  <script type="application/javascript">
+    window.breadcrumbs = [{name: 'Table'}];
+  </script>
+  <div id="content-wrapper">
+
+    <div class="container-fluid">
+      <div class="card mb-3">
+        <div class="card-header">
+          <i class="fa fa-table"></i>
+          Data Table Example</div>
+        <div class="card-body">
+          <div class="table-responsive">
+            <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+              <thead>
+              <tr>
+                <th>Name</th>
+                <th data-sort="position" data-order="asc">Position</th>
+                <th>Office</th>
+                <th data-sort="age">Age</th>
+                <th>Start date</th>
+                <th>Salary</th>
+              </tr>
+              </thead>
+              <tfoot>
+              <tr>
+                <th>Name</th>
+                <th>Position</th>
+                <th>Office</th>
+                <th>Age</th>
+                <th>Start date</th>
+                <th>Salary</th>
+              </tr>
+              </tfoot>
+              <tbody data-pagination="{&quot;page&quot;: 1, &quot;size&quot;: 20, &quot;totalCount&quot;: 122, &quot;totalPages&quot;:7}">
+              {{#each data}}
+                <tr>
+                  <td>{{name}}</td>
+                  <td>{{position}}</td>
+                  <td>{{office}}</td>
+                  <td>{{age}}</td>
+                  <td>{{startDate}}</td>
+                  <td>{{salary}}</td>
+                </tr>
+              {{/each}}
+              </tbody>
+            </table>
+          </div>
+        </div>
+        <div class="card-footer small text-muted">Updated yesterday at 11:59 PM</div>
+      </div>
+
+      <p class="small text-center text-muted my-5">
+        <em>More table examples coming soon...</em>
+      </p>
+
+    </div>
+    <!-- /.container-fluid -->
+
+    <!-- Sticky Footer -->
+    <footer class="sticky-footer">
+      <div class="container my-auto">
+        <div class="copyright text-center my-auto">
+          <span>Copyright © Your Website 2018</span>
+        </div>
+      </div>
+    </footer>
+
+  </div>
+{{/layoutHelper}}

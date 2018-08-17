@@ -1,0 +1,31 @@
+tr > th.sorting {
+  @extend .unselect;
+  cursor: pointer;
+  position: relative;
+  padding-right: $table-cell-padding + 0.6rem;
+  &:before, &:after {
+    position: absolute;
+    right: $table-cell-padding;
+    vertical-align: middle;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    font-family: "FontAwesome";
+    font-weight: 900;
+    color: rgba(50, 50, 50, 0.5);
+  }
+  &:before {
+    content: "\f0de";
+  }
+  &:after {
+    content: "\f0dd";
+  }
+  &.sorting_asc:before {
+    color: inherit;
+  }
+  &.sorting_desc:after {
+    color: inherit;
+  }
+}
