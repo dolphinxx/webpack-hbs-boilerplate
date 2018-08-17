@@ -1,5 +1,6 @@
-# webpack-hbs-boiplate
-A webpack &amp; hbs boiplate, which is only for template designing purpose.
+# webpack-hbs-boilerplate
+A webpack &amp; handlebars boilerplate, which is only for template designing purpose.
+> Derived from [SB Admin](https://github.com/BlackrockDigital/startbootstrap-sb-admin.git)
 
 ## Install dependencies
 ```shell
