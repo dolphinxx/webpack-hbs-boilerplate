@@ -14,8 +14,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "dolphinxx",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "autoprefixer": "^9.1.0",
     "babel-core": "^6.26.3",
@@ -35,7 +34,7 @@
     "friendly-errors-webpack-plugin": "^1.7.0",
     "handlebars": "^4.0.11",
     "handlebars-loader": "^1.7.0",
-    "html-webpack-inject-assets-plugin": "0.0.1",
+    "html-webpack-inject-assets-plugin": "0.0.2",
     "html-webpack-plugin": "^4.0.0-alpha",
     "jquery": "^3.3.1",
     "mini-css-extract-plugin": "^0.4.1",
