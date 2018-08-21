@@ -1,0 +1,44 @@
+{{#layoutHelper title=title menu='cards' header='!%css slot%!' footer='!%js slot%!'}}
+  <script type="application/javascript">
+    window.breadcrumbs = [{name: 'Cards'}];
+  </script>
+  <div id="content-wrapper">
+
+    <div class="container-fluid">
+      <div class="card mb-3">
+        <div class="card-header">
+          <i class="fa fa-columns"></i>
+          Card Header</div>
+        <div class="card-body">
+          <p>Card Body</p>
+        </div>
+        <div class="card-footer small text-muted">Card Footer</div>
+      </div>
+
+      <div class="row">
+        <div class="col-6">
+          <div class="card mb-3">
+            <div class="card-header">
+              <i class="fa fa-columns"></i>
+              Card Header</div>
+            <div class="card-body">
+              <p>Card Body</p>
+            </div>
+            <div class="card-footer small text-muted">Card Footer</div>
+          </div>
+        </div>
+        <div class="col-6">
+          <div class="card mb-3 card-dark">
+            <div class="card-header">
+              <i class="fa fa-columns"></i>
+              Card Header</div>
+            <div class="card-body">
+              <p>Card Body</p>
+            </div>
+            <div class="card-footer small text-muted">Card Footer</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+{{/layoutHelper}}
